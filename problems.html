@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WD73 TechBlazers Student List</title>
+  <link rel="icon" type="image/x-icon" href="./images/techblazers-logo.ico">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+  <style>
+    .bg-techblazers {
+      background-color: #32283e;
+    }
+  </style>
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-techblazers">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">
+        <img src="./images/techblazers-logo.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
+        WD73 TechBlazers
+      </a><button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="./index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="./problems.html">Problems</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div class="container p-3">
+    <div class="row">
+      <div class="col-11 col-lg-6 border mx-auto p-3">
+        <h3>Problem #1</h3>
+        <p>Write a program that outputs the sum of two numbers</p>
+        <hr/>
+        <p><b>Input: </b><b>x</b> and <b>y</b></p>
+        <p><b>Output: </b><b>sum</b></p>
+        <hr/>
+        <p><b>Example Input: </b>4 and 5</p>
+        <p><b>Expected Output: </b>9</p>
+        <hr/>
+        <p><b>Example Input: </b>10 and 3</p>
+        <p><b>Expected Output: </b>7</p>
+        <hr/>
+        <p class="text-danger"><small>View solutions only after trying to solve the problem on your own.</small></p>
+        <div class="accordion" id="accordionP1">
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="p1-pseudocode">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#p1-collapsePseudocode" aria-expanded="true" aria-controls="p1-collapsePseudocode">
+                SOLUTION: Pseudocode
+              </button>
+            </h2>
+            <div id="p1-collapsePseudocode" class="accordion-collapse collapse" aria-labelledby="p1-pseudocode" data-bs-parent="#accordionP1">
+              <div class="accordion-body">
+                <ol>
+                  <li>let sum</li>
+                  <li>input x and y</li>
+                  <li>sum = x + y</li>
+                  <li>output sum</li>
+                </ol>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="p1-flowchart">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#p1-collapseFlowchart" aria-expanded="true" aria-controls="p1-collapseFlowchart">
+                SOLUTION: Flowchart
+              </button>
+            </h2>
+            <div id="p1-collapseFlowchart" class="accordion-collapse collapse" aria-labelledby="p1-flowchart" data-bs-parent="#accordionP1">
+              <div class="accordion-body">
+                <img src="./images/problems-1.jpg" alt="problem-1-flowchart" width="100%">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+</body>
+</html>
