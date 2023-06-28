@@ -276,6 +276,54 @@
           </div>
         </div>
       </div>
+        
+      <div class="col-11 col-lg-7 border mx-auto my-2 p-3">
+        <h3>Problem #6</h3>
+        <p>A user wants to buy an item and pay thru digital wallet. Write a program that outputs the remaining balance after buying the item. But if the user’s digital wallet is not enough to pay for the item, output “Insufficient Funds”.</p>
+        <hr/>
+        <p><b>Input: itemPrice</b>, <b>walletBal</b></p>
+        <p><b>Output: walletBal</b> or "Insufficient Funds"</p>
+        <hr/>
+        <p><b>Example Input: </b>itemPrice = 300, walletBal = 500</p>
+        <p><b>Expected Output: </b>200</p>
+        <hr/>
+        <p><b>Example Input: </b>itemPrice = 100, walletBal = 20</p>
+        <p><b>Expected Output: </b>"Insufficient Funds"</p>
+        <hr/>
+        <p class="text-danger"><small>View solutions only after trying to solve the problem on your own.</small></p>
+        <div class="accordion" id="accordionP6">
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="p6-pseudocode">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#p6-collapsePseudocode" aria-expanded="true" aria-controls="p6-collapsePseudocode">
+                SOLUTION: Pseudocode
+              </button>
+            </h2>
+            <div id="p6-collapsePseudocode" class="accordion-collapse collapse" aria-labelledby="p6-pseudocode" data-bs-parent="#accordionP6">
+              <div class="accordion-body">
+                <ol>
+                  <li>Input itemPrice, walletBal</li>
+                  <li>If walletBal >= itemPrice, go to step 4</li>
+                  <li>Output "Insufficient Funds", end</li>
+                  <li>walletBal = walletBal - itemPrice</li>
+                  <li>Output walletBal</li>
+                </ol>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="p6-flowchart">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#p6-collapseFlowchart" aria-expanded="true" aria-controls="p6-collapseFlowchart">
+                SOLUTION: Flowchart
+              </button>
+            </h2>
+            <div id="p6-collapseFlowchart" class="accordion-collapse collapse" aria-labelledby="p6-flowchart" data-bs-parent="#accordionP6">
+              <div class="accordion-body">
+                <img src="./images/problems-6.jpg" alt="problem-6-flowchart" width="100%">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
     </div>
   </div>
