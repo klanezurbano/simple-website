@@ -5,16 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>WD73 TechBlazers Student List</title>
   <link rel="icon" type="image/x-icon" href="./images/techblazers-logo.ico">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-  <style>
-    .bg-techblazers {
-      background-color: #32283e;
-    }
-  </style>
+  <link rel="stylesheet" href="./css/main.min.css">
 </head>
 
 <body>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-techblazers">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">
         <img src="./images/techblazers-logo.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
@@ -36,7 +31,7 @@
   </nav>
   <div class="container">
     <table class="table table-striped table-bordered table-hover w-75 mx-auto my-5">
-      <thead class="bg-techblazers text-light align-middle text-center">
+      <thead class="bg-primary text-light align-middle text-center">
         <tr>
           <th>Student Portfolio</th>
           <th>Mini Project 1</th>
@@ -49,6 +44,8 @@
     </table>
   </div>
   <script src="./script.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+  <script type="module">
+    import './node_modules/bootstrap/dist/js/bootstrap.min.js';
+  </script>
 </body>
 </html>
