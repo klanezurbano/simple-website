@@ -15,6 +15,11 @@ const studentList = [
       link: "https://ernellealba.github.io/Cuppa-Joy-Milktea/",
       classes: "",
     },
+    project2: {
+      title: "Group 9: Anime Connect",
+      link: "https://github.com/ErnelleAlba/Anime-Connect/commits/main",
+      classes: "",
+    },
     otherApps: []
   },
   {
@@ -28,6 +33,11 @@ const studentList = [
       link: "https://micoalcala.github.io/Wing-Airlines-Company/",
       classes: "",
     },
+    project2: {
+      title: "Group 10: Super Search Universe",
+      link: "https://github.com/MicoAlcala/SuperSearch_Universe/commits/main",
+      classes: "",
+    },
     otherApps: []
   },
   {
@@ -39,6 +49,11 @@ const studentList = [
     project1: {
       title: "BuildMeUp",
       link: "https://jodymendobandoles.github.io/BuildMeUp/",
+      classes: "",
+    },
+    project2: {
+      title: "Group 3: Global Trivia",
+      link: "https://github.com/GerwinBG/GlobalTrivia/commits/main",
       classes: "",
     },
     otherApps: [
@@ -59,6 +74,11 @@ const studentList = [
       link: "https://esbanez.github.io/Interior-furniture-Banez/",
       classes: "",
     },
+    project2: {
+      title: "Group 9: Anime Connect",
+      link: "https://github.com/ErnelleAlba/Anime-Connect/commits/main",
+      classes: "",
+    },
     otherApps: []
   },
   {
@@ -72,6 +92,11 @@ const studentList = [
       link: "https://giseljeancatbagan.github.io/maxsof/",
       classes: "",
     },
+    project2: {
+      title: "Group 8: Brainiac Clash",
+      link: "https://github.com/NikkiZapuiz/Brainiac-Clash/commits/main",
+      classes: "",
+    },
     otherApps: []
   },
   {
@@ -83,6 +108,11 @@ const studentList = [
     project1: {
       title: "Redwall Chinese Cuisine",
       link: "https://nickconsignado.github.io/Redwall-Chinese-Cuisine/",
+      classes: "",
+    },
+    project2: {
+      title: "Group 6: Rapid Jobs Board",
+      link: "https://github.com/NickConsignado/Rapid-Jobs-Board-Germany/commits/main",
       classes: "",
     },
     otherApps: [
@@ -103,6 +133,11 @@ const studentList = [
       link: "https://kiermiguel2020.github.io/raked-store-repair-service/",
       classes: "",
     },
+    project2: {
+      title: "Group 12: ShopSavvy",
+      link: "https://github.com/AlvinQuizon/ShopSavvy/commits/main",
+      classes: "",
+    },
     otherApps: []
   },
   {
@@ -116,6 +151,11 @@ const studentList = [
       link: "https://felicianoroldan.github.io/SteadFastness/",
       classes: "",
     },
+    project2: {
+      title: "Group 7: Exploredia",
+      link: "https://github.com/RiyaVillamor/Exploredia/commits/main",
+      classes: "",
+    },
     otherApps: []
   },
   {
@@ -127,6 +167,11 @@ const studentList = [
     project1: {
       title: "Color Hue Prints",
       link: "https://tjfuentes.github.io/color-hue-prints/",
+      classes: "",
+    },
+    project2: {
+      title: "Group 5: F2P Games",
+      link: "https://github.com/GalePerez/F2PGames/commits/main",
       classes: "",
     },
     otherApps: [
@@ -147,6 +192,11 @@ const studentList = [
       link: "https://gerwinbg.github.io/eyog-dental/",
       classes: "",
     },
+    project2: {
+      title: "Group 3: Global Trivia",
+      link: "https://github.com/GerwinBG/GlobalTrivia/commits/main",
+      classes: "",
+    },
     otherApps: [
       {
         title: "To Do List",
@@ -165,6 +215,11 @@ const studentList = [
       link: "https://elainelynch.github.io/blizzard-tech-services/",
       classes: "",
     },
+    project2: {
+      title: "Group 1: The Linguist",
+      link: "https://github.com/elainelynch/thelinguist/commits/main",
+      classes: "",
+    },
     otherApps: []
   },
   {
@@ -176,6 +231,11 @@ const studentList = [
     project1: {
       title: "Kuya Rey's Foodhouse",
       link: "https://malaguiaajay.github.io/Kuya-Rey-foodhouse/",
+      classes: "",
+    },
+    project2: {
+      title: "Group 6: Rapid Jobs Board",
+      link: "https://github.com/NickConsignado/Rapid-Jobs-Board-Germany/commits/main",
       classes: "",
     },
     otherApps: [
@@ -194,6 +254,11 @@ const studentList = [
     project1: {
       title: "CapMedia Creatives",
       link: "https://matthewmarin.github.io/CapMedia-Creatives/",
+      classes: "",
+    },
+    project2: {
+      title: "Group 2: Cinehub",
+      link: "https://github.com/matthewmarin/Cinehub/commits/main",
       classes: "",
     },
     otherApps: [
@@ -217,6 +282,11 @@ const studentList = [
       link: "https://daniah-muti.github.io/HAQQu/",
       classes: "",
     },
+    project2: {
+      title: "Group 4: Kairos",
+      link: "https://github.com/LymarPaller/kairos-weatherapp/commits/main",
+      classes: "",
+    },
     otherApps: []
   },
   {
@@ -228,6 +298,11 @@ const studentList = [
     project1: {
       title: "Gourmet Delights",
       link: "https://ongmarkanthony.github.io/delight-gourmet/",
+      classes: "",
+    },
+    project2: {
+      title: "Group 11: Meet Kristine!",
+      link: "https://github.com/ongmarkanthony/meetKristine/commits/main",
       classes: "",
     },
     otherApps: [
@@ -249,6 +324,11 @@ const studentList = [
       link: "https://lymarpaller.github.io/by.olivia/",
       classes: "",
     },
+    project2: {
+      title: "Group 4: Kairos",
+      link: "https://github.com/LymarPaller/kairos-weatherapp/commits/main",
+      classes: "",
+    },
     otherApps: [
       {
         title: "Vowel Counter",
@@ -265,6 +345,11 @@ const studentList = [
     project1: {
       title: "Aurora Studios",
       link: "https://galeperez.github.io/aurora-studios/",
+      classes: "",
+    },
+    project2: {
+      title: "Group 5: F2P Games",
+      link: "https://github.com/GalePerez/F2PGames/commits/main",
       classes: "",
     },
     otherApps: [
@@ -285,6 +370,11 @@ const studentList = [
       link: "https://alvinquizon.github.io/Mad-Baker/",
       classes: "",
     },
+    project2: {
+      title: "Group 12: ShopSavvy",
+      link: "https://github.com/AlvinQuizon/ShopSavvy/commits/main",
+      classes: "",
+    },
     otherApps: []
   },
   {
@@ -296,6 +386,11 @@ const studentList = [
     project1: {
       title: "Kathys BW",
       link: "https://reyjohnregua.github.io/kathys-bw/",
+      classes: "",
+    },
+    project2: {
+      title: "Group 2: Cinehub",
+      link: "https://github.com/matthewmarin/Cinehub/commits/main",
       classes: "",
     },
     otherApps: []
@@ -311,6 +406,11 @@ const studentList = [
       link: "https://ryanrelativo.github.io/Shamrock-ESL/",
       classes: "",
     },
+    project2: {
+      title: "Group 10: Super Search Universe",
+      link: "https://github.com/MicoAlcala/SuperSearch_Universe/commits/main",
+      classes: "",
+    },
     otherApps: []
   },
   {
@@ -322,6 +422,11 @@ const studentList = [
     project1: {
       title: "Victoria Bay Resort",
       link: "https://maricarrubio.github.io/victoriabayresort/",
+      classes: "",
+    },
+    project2: {
+      title: "Group 1: The Linguist",
+      link: "https://github.com/elainelynch/thelinguist/commits/main",
       classes: "",
     },
     otherApps: []
@@ -337,6 +442,11 @@ const studentList = [
       link: "https://markseneres.github.io/TastyBites/",
       classes: "",
     },
+    project2: {
+      title: "Group 11: Meet Kristine!",
+      link: "https://github.com/ongmarkanthony/meetKristine/commits/main",
+      classes: "",
+    },
     otherApps: []
   },
   {
@@ -350,6 +460,11 @@ const studentList = [
       link: "https://riyavillamor.github.io/Cuisina/",
       classes: "",
     },
+    project2: {
+      title: "Group 7: Exploredia",
+      link: "https://github.com/RiyaVillamor/Exploredia/commits/main",
+      classes: "",
+    },
     otherApps: []
   },
   {
@@ -361,6 +476,11 @@ const studentList = [
     project1: {
       title: "Chasing Umami",
       link: "https://nikkizapuiz.github.io/Chasing-Umami/",
+      classes: "",
+    },
+    project2: {
+      title: "Group 8: Brainiac Clash",
+      link: "https://github.com/NikkiZapuiz/Brainiac-Clash/commits/main",
       classes: "",
     },
     otherApps: [
@@ -414,6 +534,7 @@ for (let student of studentList) {
     <tr>
       <td class="${student.portfolio.classes}"><a href="${student.portfolio.link}">${student.portfolio.title}</a></td>
       <td class="text-center ${student.project1.classes}"><a href="${student.project1.link}">${student.project1.title}</a></td>
+      <td class="text-center ${student.project2.classes}"><a href="${student.project2.link}">${student.project2.title}</a></td>
       ${otherAppsList.outerHTML}
     </tr>
   `;
