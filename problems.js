@@ -1,1 +1,3 @@
-import './node_modules/bootstrap/dist/js/bootstrap.js';
+import 'bootstrap';
+import AOS from 'aos';
+AOS.init();

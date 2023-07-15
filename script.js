@@ -1,4 +1,4 @@
-import './node_modules/bootstrap/dist/js/bootstrap.js';
+import 'bootstrap';
 
 const trList = document.getElementById('tr-list');
 
