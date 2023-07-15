@@ -1,6 +1,3 @@
-
-
-
 const trList = document.getElementById('tr-list');
 
 const studentList = [
