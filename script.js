@@ -14,7 +14,8 @@ const studentList = [
     },
     project2: {
       title: "Group 9: Anime Connect",
-      link: "https://github.com/ErnelleAlba/Anime-Connect/commits/main",
+      githubLink: "https://github.com/ErnelleAlba/Anime-Connect/commits/main",
+      link: "https://anime-connect.vercel.app/",
       classes: "",
     },
     otherApps: []
@@ -32,8 +33,9 @@ const studentList = [
     },
     project2: {
       title: "Group 10: Super Search Universe",
+      githubLink: "https://github.com/MicoAlcala/SuperSearch_Universe/commits/main",
       link: "https://github.com/MicoAlcala/SuperSearch_Universe/commits/main",
-      classes: "",
+      classes: "table-warning",
     },
     otherApps: []
   },
@@ -50,7 +52,8 @@ const studentList = [
     },
     project2: {
       title: "Group 3: Global Trivia",
-      link: "https://github.com/GerwinBG/GlobalTrivia/commits/main",
+      githubLink: "https://github.com/GerwinBG/GlobalTrivia/commits/main",
+      link: "https://global-trivia.vercel.app/",
       classes: "",
     },
     otherApps: [
@@ -73,7 +76,8 @@ const studentList = [
     },
     project2: {
       title: "Group 9: Anime Connect",
-      link: "https://github.com/ErnelleAlba/Anime-Connect/commits/main",
+      githubLink: "https://github.com/ErnelleAlba/Anime-Connect/commits/main",
+      link: "https://anime-connect.vercel.app/",
       classes: "",
     },
     otherApps: []
@@ -91,7 +95,8 @@ const studentList = [
     },
     project2: {
       title: "Group 8: Brainiac Clash",
-      link: "https://github.com/NikkiZapuiz/Brainiac-Clash/commits/main",
+      githubLink: "https://github.com/NikkiZapuiz/Brainiac-Clash/commits/main",
+      link: "https://brainiac-clash.vercel.app/",
       classes: "",
     },
     otherApps: []
@@ -109,7 +114,8 @@ const studentList = [
     },
     project2: {
       title: "Group 6: Rapid Jobs Board",
-      link: "https://github.com/NickConsignado/Rapid-Jobs-Board-Germany/commits/main",
+      githubLink: "https://github.com/NickConsignado/Rapid-Jobs-Board-Germany/commits/main",
+      link: "https://rapid-jobs-board-germany.vercel.app/",
       classes: "",
     },
     otherApps: [
@@ -132,7 +138,8 @@ const studentList = [
     },
     project2: {
       title: "Group 12: ShopSavvy",
-      link: "https://github.com/AlvinQuizon/ShopSavvy/commits/main",
+      githubLink: "https://github.com/AlvinQuizon/ShopSavvy/commits/main",
+      link: "https://shop-savvy-three.vercel.app/",
       classes: "",
     },
     otherApps: []
@@ -150,7 +157,8 @@ const studentList = [
     },
     project2: {
       title: "Group 7: Exploredia",
-      link: "https://github.com/RiyaVillamor/Exploredia/commits/main",
+      githubLink: "https://github.com/RiyaVillamor/Exploredia/commits/main",
+      link: "https://exploredia.vercel.app/",
       classes: "",
     },
     otherApps: []
@@ -168,7 +176,8 @@ const studentList = [
     },
     project2: {
       title: "Group 5: F2P Games",
-      link: "https://github.com/GalePerez/F2PGames/commits/main",
+      githubLink: "https://github.com/GalePerez/F2PGames/commits/main",
+      link: "https://f2p-games-rose.vercel.app/",
       classes: "",
     },
     otherApps: [
@@ -191,7 +200,8 @@ const studentList = [
     },
     project2: {
       title: "Group 3: Global Trivia",
-      link: "https://github.com/GerwinBG/GlobalTrivia/commits/main",
+      githubLink: "https://github.com/GerwinBG/GlobalTrivia/commits/main",
+      link: "https://global-trivia.vercel.app/",
       classes: "",
     },
     otherApps: [
@@ -214,7 +224,8 @@ const studentList = [
     },
     project2: {
       title: "Group 1: The Linguist",
-      link: "https://github.com/elainelynch/thelinguist/commits/main",
+      githubLink: "https://github.com/elainelynch/thelinguist/commits/main",
+      link: "https://thelinguist.vercel.app/",
       classes: "",
     },
     otherApps: []
@@ -232,7 +243,8 @@ const studentList = [
     },
     project2: {
       title: "Group 6: Rapid Jobs Board",
-      link: "https://github.com/NickConsignado/Rapid-Jobs-Board-Germany/commits/main",
+      githubLink: "https://github.com/NickConsignado/Rapid-Jobs-Board-Germany/commits/main",
+      link: "https://rapid-jobs-board-germany.vercel.app/",
       classes: "",
     },
     otherApps: [
@@ -255,7 +267,8 @@ const studentList = [
     },
     project2: {
       title: "Group 2: Cinehub",
-      link: "https://github.com/matthewmarin/Cinehub/commits/main",
+      githubLink: "https://github.com/matthewmarin/Cinehub/commits/main",
+      link: "https://thecinehub.vercel.app/",
       classes: "",
     },
     otherApps: [
@@ -281,7 +294,8 @@ const studentList = [
     },
     project2: {
       title: "Group 4: Kairos",
-      link: "https://github.com/LymarPaller/kairos-weatherapp/commits/main",
+      githubLink: "https://github.com/LymarPaller/kairos-weatherapp/commits/main",
+      link: "https://kairos-weatherapp.vercel.app/",
       classes: "",
     },
     otherApps: []
@@ -299,8 +313,9 @@ const studentList = [
     },
     project2: {
       title: "Group 11: Meet Kristine!",
+      githubLink: "https://github.com/ongmarkanthony/meetKristine/commits/main",
       link: "https://github.com/ongmarkanthony/meetKristine/commits/main",
-      classes: "",
+      classes: "table-warning",
     },
     otherApps: [
       {
@@ -323,7 +338,8 @@ const studentList = [
     },
     project2: {
       title: "Group 4: Kairos",
-      link: "https://github.com/LymarPaller/kairos-weatherapp/commits/main",
+      githubLink: "https://github.com/LymarPaller/kairos-weatherapp/commits/main",
+      link: "https://kairos-weatherapp.vercel.app/",
       classes: "",
     },
     otherApps: [
@@ -346,7 +362,8 @@ const studentList = [
     },
     project2: {
       title: "Group 5: F2P Games",
-      link: "https://github.com/GalePerez/F2PGames/commits/main",
+      githubLink: "https://github.com/GalePerez/F2PGames/commits/main",
+      link: "https://f2p-games-rose.vercel.app/",
       classes: "",
     },
     otherApps: [
@@ -369,7 +386,8 @@ const studentList = [
     },
     project2: {
       title: "Group 12: ShopSavvy",
-      link: "https://github.com/AlvinQuizon/ShopSavvy/commits/main",
+      githubLink: "https://github.com/AlvinQuizon/ShopSavvy/commits/main",
+      link: "https://shop-savvy-three.vercel.app/",
       classes: "",
     },
     otherApps: []
@@ -387,7 +405,8 @@ const studentList = [
     },
     project2: {
       title: "Group 2: Cinehub",
-      link: "https://github.com/matthewmarin/Cinehub/commits/main",
+      githubLink: "https://github.com/matthewmarin/Cinehub/commits/main",
+      link: "https://thecinehub.vercel.app/",
       classes: "",
     },
     otherApps: []
@@ -405,8 +424,9 @@ const studentList = [
     },
     project2: {
       title: "Group 10: Super Search Universe",
+      githubLink: "https://github.com/MicoAlcala/SuperSearch_Universe/commits/main",
       link: "https://github.com/MicoAlcala/SuperSearch_Universe/commits/main",
-      classes: "",
+      classes: "table-warning",
     },
     otherApps: []
   },
@@ -423,7 +443,8 @@ const studentList = [
     },
     project2: {
       title: "Group 1: The Linguist",
-      link: "https://github.com/elainelynch/thelinguist/commits/main",
+      githubLink: "https://github.com/elainelynch/thelinguist/commits/main",
+      link: "https://thelinguist.vercel.app/",
       classes: "",
     },
     otherApps: []
@@ -441,8 +462,9 @@ const studentList = [
     },
     project2: {
       title: "Group 11: Meet Kristine!",
+      githubLink: "https://github.com/ongmarkanthony/meetKristine/commits/main",
       link: "https://github.com/ongmarkanthony/meetKristine/commits/main",
-      classes: "",
+      classes: "table-warning",
     },
     otherApps: []
   },
@@ -459,7 +481,8 @@ const studentList = [
     },
     project2: {
       title: "Group 7: Exploredia",
-      link: "https://github.com/RiyaVillamor/Exploredia/commits/main",
+      githubLink: "https://github.com/RiyaVillamor/Exploredia/commits/main",
+      link: "https://exploredia.vercel.app/",
       classes: "",
     },
     otherApps: []
@@ -477,7 +500,8 @@ const studentList = [
     },
     project2: {
       title: "Group 8: Brainiac Clash",
-      link: "https://github.com/NikkiZapuiz/Brainiac-Clash/commits/main",
+      githubLink: "https://github.com/NikkiZapuiz/Brainiac-Clash/commits/main",
+      link: "https://brainiac-clash.vercel.app/",
       classes: "",
     },
     otherApps: [
@@ -531,6 +555,7 @@ for (let student of studentList) {
     <tr>
       <td class="${student.portfolio.classes}"><a href="${student.portfolio.link}">${student.portfolio.title}</a></td>
       <td class="text-center ${student.project1.classes}"><a href="${student.project1.link}">${student.project1.title}</a></td>
+      <td class="text-center ${student.project2.classes}"><a href="${student.project2.githubLink}">Commits</a></td>
       <td class="text-center ${student.project2.classes}"><a href="${student.project2.link}">${student.project2.title}</a></td>
       ${otherAppsList.outerHTML}
     </tr>
